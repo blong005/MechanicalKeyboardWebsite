@@ -1,0 +1,27 @@
+To Do List:
+
+1.  PROJECT BUILD
+    -ADDING FILES
+    -CONNECTING FILES 
+
+2. NAVIGATION BAR
+    -2 LINKS
+    -NAME
+
+3. PORTFOLIO ITEM GRID
+    -IMAGES
+    -TITLES
+    -DESCRIPTIONS
+    -ANIMATIONS
+    -JAVASCRIPT
+
+4. ABOUT PAGE
+    -IMAGE
+    -SPLIT COLUMN LAYOUT
+    -CONTENT
+    
+
+
+Resources:
+    Images: unsplash.com
+        
